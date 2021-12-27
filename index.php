@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="" type="image/x-icon">
   <!-- Google Fonts -->
 
   <!-- Vendor CSS Files -->
@@ -74,7 +74,7 @@
       <h3>Bienvenido a Gasomarshal</h3>
       <h1>Especializados en el <br>
         desarrollo e integración de <br> tecnologías y servicios <br> para el sector gasolinero.</h1>
-              
+
       <div class="btn-facturacion">
         <h4>Facture aquí</h4>
       </div>
@@ -167,6 +167,23 @@
 
         </div>
     </section><!-- End Services Section -->
+
+    <!---->
+    <section id="services-additionals" class="services-additionals">
+      <div class="row">
+        <div class="col-lg-12">
+          <h1>Servicios adicionales</h1>
+          <img src="assets/img/additionals-services/call-center-operator.png" alt="" srcset="">
+          <p>- Contamos con personal especializado para asesorías y capacitación.
+          </p>
+        </div>
+        <div class="col-lg-12">
+          <img src="assets/img/additionals-services/industrial-robot.png" alt="" srcset="">
+        </div>
+        <div class="col-lg-12">
+          <img src="assets/img/additionals-services/stamp.png" alt="" srcset="">
+        </div>
+    </section>
 
 
     <!-- ======= Contact Section ======= -->
